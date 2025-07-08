@@ -4,15 +4,6 @@ A simple Java-based bookstore management system supporting both paper books and 
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Example Usage](#example-usage)
-- [Screenshots](#screenshots)
-
----
 
 ## Overview
 Quantum Bookstore is a console-based application for managing a collection of books, supporting both physical (paper) and digital (eBook) formats. It allows adding, searching, buying, and removing books, and demonstrates the use of Java interfaces and inheritance.
@@ -29,20 +20,18 @@ Quantum Bookstore is a console-based application for managing a collection of bo
 
 
 
-## Example Usage
-
 ## Screenshots
 
-### Application Start
-![Application Start](screenshots/screenshot1.png)
-
 ### Adding Books
-![Adding Books](screenshots/screenshot2.png)
+![Adding Books](1.png)
 
 ### Buying Books
-![Buying Books](screenshots/screenshot3.png)
+![Buying Books](2.png)
+
+### Searching For Books
+![Searching For Books](3.png)
 
 ### Removing Old Books
-![Removing Old Books](screenshots/screenshot4.png)
+![Removing Old Books](4.png)
 
 
